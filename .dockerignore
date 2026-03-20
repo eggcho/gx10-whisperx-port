@@ -1,0 +1,4 @@
+.git
+smoke-output
+benchmark-output
+*.log

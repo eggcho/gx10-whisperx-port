@@ -1,0 +1,19 @@
+{
+  "input": {
+    "audio_file": "https://replicate.delivery/pbxt/JrvsggK5WvFQ4Q53h4ugPbXW0LK2BLnMZm2dCPhM8bodUq5w/OSR_uk_000_0050_8k.wav",
+    "language": null,
+    "language_detection_min_prob": 0,
+    "language_detection_max_tries": 5,
+    "initial_prompt": null,
+    "batch_size": 64,
+    "temperature": 0,
+    "vad_onset": 0.5,
+    "vad_offset": 0.363,
+    "align_output": false,
+    "diarization": false,
+    "huggingface_access_token": null,
+    "min_speakers": null,
+    "max_speakers": null,
+    "debug": true
+  }
+}

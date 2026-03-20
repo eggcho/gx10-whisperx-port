@@ -1,0 +1,2 @@
+src/models/faster-whisper-large-v3/* filter=lfs diff=lfs merge=lfs -text
+src/models/vad/* filter=lfs diff=lfs merge=lfs -text

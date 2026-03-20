@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+numpy==1.26.4
+ffmpeg-python
+pyannote.audio==3.1.1
+faster-whisper==1.0.0
+onnxruntime==1.19.0
+transformers==4.39.3
+git+https://github.com/m-bain/whisperx.git@9e3a9e0e38fcec1304e1784381059a0e2c670be5
